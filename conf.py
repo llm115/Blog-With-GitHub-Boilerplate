@@ -58,24 +58,6 @@ nav = [
     }
 ]
 
-social_links = [
-    {
-        "name": "",
-        "url": "",
-        "icon": ""
-    },
-    {
-        "name": "",
-        "url": "",
-        "icon": ""
-    },
-    {
-        "name": "",
-        "url": "",
-        "icon": ""
-    }
-]
-
 head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
